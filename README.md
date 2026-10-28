@@ -26,3 +26,5 @@ For a local development server, you can use VS Code's Live Server extension.
 - `script.js` — mobile navigation and small page interactions
 
 The site uses Google Fonts when internet access is available; system fallback fonts are provided.
+
+Portfolio deployment update.
